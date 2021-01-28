@@ -1,1 +1,1 @@
-This project is to show my knowledge of git
+This project is to show ability to manipulate documents in git
